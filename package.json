@@ -1,7 +1,6 @@
 {
   "name": "@deuscx/utils",
   "version": "0.0.1",
-  "private": true,
   "packageManager": "pnpm@7.32.3",
   "author": "Deuscx",
   "license": "MIT",

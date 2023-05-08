@@ -1,12 +1,12 @@
 {
-  "name": "pkg-name",
+  "name": "@deuscx/utils",
   "version": "0.0.1",
   "private": true,
   "packageManager": "pnpm@7.32.3",
   "author": "Deuscx",
   "license": "MIT",
   "funding": "https://github.com/sponsors/deuscx",
-  "homepage": "https://github.com/deuscx/pkg-name#readme",
+  "homepage": "https://github.com/deuscx/@deuscx/utils#readme",
   "exports": {
     ".": {
       "types": "./dist/index.d.ts",
@@ -22,9 +22,9 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/deuscx/pkg-name.git"
+    "url": "git+https://github.com/deuscx/@deuscx/utils.git"
   },
-  "bugs": "https://github.com/deuscx/pkg-name/issues",
+  "bugs": "https://github.com/deuscx/@deuscx/utils/issues",
   "scripts": {
     "build": "tsup",
     "dev": "tsup --watch",
